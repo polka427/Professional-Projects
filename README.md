@@ -3,7 +3,7 @@
 
 I'm a Computer Science student with a passion for cybersecurity and networking. I'm building real-world projects as I study for certifications like CompTIA Network+ and Security+.
 
-💻 I learn best by doing — so this repo is a collection of hands-on labs that show what I can actually do.
+💻 I learn best by doing so this repo is a collection of hands-on labs that show what I can actually do.
 
 🧠 My strengths:
 - Attention to detail
@@ -15,4 +15,4 @@ I'm a Computer Science student with a passion for cybersecurity and networking. 
 - Security+ concepts (access control, risk management)
 - How to build a portfolio that reflects *me*
 
-Thanks for stopping by
+Thanks for stopping by 👋🏾
